@@ -1,3 +1,3 @@
 # myoracle
 
-My Linux Snippets Created while learning stuff
+My Oracle Database study material created while learning stuff
